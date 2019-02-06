@@ -1,0 +1,333 @@
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csprojAssemblyReference.cache
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.doctorinfo.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form1.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form2.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form2OutP.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form3.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form3OutP.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.appointment.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.roominfo.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form5Bloodinfo.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form6.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form6BloodSearch.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbilling.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillinginfo.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillsearch.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipinfo.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipsearch.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.newaccess.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.opbilling.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.opbillsearch.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.pathology.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Properties.Resources.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.removeaccount.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.staffnfo.resources
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.GenerateResource.cache
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.CoreCompileInputs.cache
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\bin\Debug\Hospital management system.exe.config
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\bin\Debug\Hospital management system.exe
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\bin\Debug\Hospital management system.pdb
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\bin\Debug\DGV Printer.dll
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\bin\Debug\MySql.Data.dll
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\bin\Debug\System.ValueTuple.dll
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\bin\Debug\WebCam_Capture.dll
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\bin\Debug\Zen.Barcode.Core.dll
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\bin\Debug\Google.Protobuf.dll
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.CopyComplete
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital management system.exe
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital management system.pdb
+c:\users\vijay\source\repos\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.pharmacy.resources
+G:\Visual Studio\Hospital management system\Hospital management system\bin\Debug\Hospital management system.exe.config
+G:\Visual Studio\Hospital management system\Hospital management system\bin\Debug\Hospital management system.exe
+G:\Visual Studio\Hospital management system\Hospital management system\bin\Debug\Hospital management system.pdb
+G:\Visual Studio\Hospital management system\Hospital management system\bin\Debug\DGV Printer.dll
+G:\Visual Studio\Hospital management system\Hospital management system\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+G:\Visual Studio\Hospital management system\Hospital management system\bin\Debug\MySql.Data.dll
+G:\Visual Studio\Hospital management system\Hospital management system\bin\Debug\System.ValueTuple.dll
+G:\Visual Studio\Hospital management system\Hospital management system\bin\Debug\WebCam_Capture.dll
+G:\Visual Studio\Hospital management system\Hospital management system\bin\Debug\Zen.Barcode.Core.dll
+G:\Visual Studio\Hospital management system\Hospital management system\bin\Debug\Google.Protobuf.dll
+G:\Visual Studio\Hospital management system\Hospital management system\bin\Debug\MySql.Data.xml
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csprojAssemblyReference.cache
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.doctorinfo.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form1.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form2.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form2OutP.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form3.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form3OutP.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.appointment.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.roominfo.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form5Bloodinfo.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form6.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form6BloodSearch.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbilling.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillinginfo.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillsearch.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipinfo.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipsearch.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.newaccess.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.opbilling.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.opbillsearch.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.pathology.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.pharmacy.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Properties.Resources.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.removeaccount.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.staffnfo.resources
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.GenerateResource.cache
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.CoreCompileInputs.cache
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.CopyComplete
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital management system.exe
+G:\Visual Studio\Hospital management system\Hospital management system\obj\Debug\Hospital management system.pdb
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csprojAssemblyReference.cache
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.doctorinfo.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form1.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form2.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form2OutP.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form3.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form3OutP.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.appointment.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.roominfo.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form5Bloodinfo.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form6.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form6BloodSearch.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbilling.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillinginfo.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillsearch.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipsearch.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.newaccess.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.opbilling.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.pathology.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.pharmacy.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Properties.Resources.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.removeaccount.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.staffnfo.resources
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.GenerateResource.cache
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.CoreCompileInputs.cache
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital management system.exe
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital management system.pdb
+G:\Hospital management system\Hospital management system\bin\Debug\Hospital management system.exe.config
+G:\Hospital management system\Hospital management system\bin\Debug\Hospital management system.exe
+G:\Hospital management system\Hospital management system\bin\Debug\Hospital management system.pdb
+G:\Hospital management system\Hospital management system\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+G:\Hospital management system\Hospital management system\bin\Debug\MySql.Data.dll
+G:\Hospital management system\Hospital management system\bin\Debug\System.ValueTuple.dll
+G:\Hospital management system\Hospital management system\bin\Debug\Google.Protobuf.dll
+G:\Hospital management system\Hospital management system\bin\Debug\MySql.Data.xml
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.CopyComplete
+G:\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillprint.resources
+G:\Hospital management system\Hospital management system\bin\Debug\DGV Printer.dll
+G:\Hospital management system\Hospital management system\bin\Debug\AForge.dll
+G:\Hospital management system\Hospital management system\bin\Debug\AForge.Video.DirectShow.dll
+G:\Hospital management system\Hospital management system\bin\Debug\AForge.Video.dll
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Hospital management system.exe.config
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Hospital management system.exe
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Hospital management system.pdb
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\bin\Debug\MySql.Data.dll
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\bin\Debug\System.ValueTuple.dll
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Google.Protobuf.dll
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\bin\Debug\MySql.Data.xml
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csprojAssemblyReference.cache
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.doctorinfo.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form1.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form2.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form2OutP.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form3.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form3OutP.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.appointment.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.roominfo.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form5Bloodinfo.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form6.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form6BloodSearch.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillinginfo.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillprint.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillsearch.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.newaccess.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.opbilling.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.pathology.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Properties.Resources.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.removeaccount.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.staffnfo.resources
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.GenerateResource.cache
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.CoreCompileInputs.cache
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.CopyComplete
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.exe
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.pdb
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\bin\Debug\mysqlbackup.dll
+F:\embedded1\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.exe.config
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Hospital management system.exe.config
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Hospital management system.exe
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Hospital management system.pdb
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\bin\Debug\MySql.Data.dll
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\bin\Debug\System.ValueTuple.dll
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Google.Protobuf.dll
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\bin\Debug\MySql.Data.xml
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csprojAssemblyReference.cache
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.exe.config
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.doctorinfo.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form1.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form2.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form2OutP.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form3.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form3OutP.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.appointment.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.roominfo.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form5Bloodinfo.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form6.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form6BloodSearch.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillinginfo.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillprint.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillsearch.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.newaccess.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.opbilling.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.pathology.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Properties.Resources.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.removeaccount.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.staffnfo.resources
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.GenerateResource.cache
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.CoreCompileInputs.cache
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.CopyComplete
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.exe
+C:\Users\ujjwal\Downloads\VizayFinal\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.pdb
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Hospital management system.exe.config
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Hospital management system.exe
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Hospital management system.pdb
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\MySql.Data.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\mysqlbackup.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\System.ValueTuple.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Google.Protobuf.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\MySql.Data.xml
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csprojAssemblyReference.cache
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.doctorinfo.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form1.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form2.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form2OutP.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form3.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form3OutP.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.appointment.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.roominfo.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form5Bloodinfo.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form6.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form6BloodSearch.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillinginfo.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillprint.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillsearch.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.newaccess.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.opbilling.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.pathology.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Properties.Resources.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.removeaccount.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.staffnfo.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.GenerateResource.cache
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.CoreCompileInputs.cache
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.CopyComplete
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.exe
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.pdb
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.dll.config
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Hospital management system.exe.config
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Hospital management system.exe
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Hospital management system.pdb
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.Controls.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.IO.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.MachineLearning.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.Math.Core.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.Math.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.Statistics.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\MySql.Data.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\mysqlbackup.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\System.ValueTuple.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\ZedGraph.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Google.Protobuf.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.xml
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.Controls.xml
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.IO.xml
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.MachineLearning.xml
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.Math.xml
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.Math.Core.xml
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.Statistics.xml
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\MySql.Data.xml
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\ZedGraph.xml
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\de\ZedGraph.resources.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\es\ZedGraph.resources.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\fr\ZedGraph.resources.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\hu\ZedGraph.resources.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\it\ZedGraph.resources.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\ja\ZedGraph.resources.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\pt\ZedGraph.resources.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\ru\ZedGraph.resources.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\sk\ZedGraph.resources.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\sv\ZedGraph.resources.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\tr\ZedGraph.resources.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csprojAssemblyReference.cache
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.doctorinfo.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form1.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form2.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form2OutP.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form3.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form3OutP.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.appointment.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.roominfo.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form5Bloodinfo.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form6.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Form6BloodSearch.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillinginfo.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillprint.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.ipbillsearch.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.MainForm.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.newaccess.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.opbilling.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.pathology.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.Properties.Resources.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.removeaccount.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.staffnfo.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Components.TableSelectDialog.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.GenerateResource.cache
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.CoreCompileInputs.cache
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.csproj.CopyComplete
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.exe
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital management system.pdb
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.cluster.resources
+F:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.AccrossFormPicture.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.dll.config
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.Controls.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.IO.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.MachineLearning.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.Math.Core.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.Math.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.Statistics.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\ZedGraph.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.xml
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.Controls.xml
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.IO.xml
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.MachineLearning.xml
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.Math.xml
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.Math.Core.xml
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\Accord.Statistics.xml
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\ZedGraph.xml
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\de\ZedGraph.resources.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\es\ZedGraph.resources.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\fr\ZedGraph.resources.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\hu\ZedGraph.resources.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\it\ZedGraph.resources.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\ja\ZedGraph.resources.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\pt\ZedGraph.resources.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\ru\ZedGraph.resources.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\sk\ZedGraph.resources.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\sv\ZedGraph.resources.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\tr\ZedGraph.resources.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\zh-cn\ZedGraph.resources.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\bin\Debug\zh-tw\ZedGraph.resources.dll
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.AccrossFormPicture.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.cluster.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Hospital_management_system.MainForm.resources
+G:\VizayFinalsend\VizayFinalsend\Hospital management system\Hospital management system\Hospital management system\obj\Debug\Components.TableSelectDialog.resources
